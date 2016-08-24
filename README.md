@@ -1,2 +1,8 @@
-# serrariavezani
-Programa para cadastro e consulta de produtos Serraria Vezani
+# Serraria Vezani
+Serraria Vezani é um projeto responsável por cadastrar e consultar produtos.
+
+# dev requirements
+
+- Ruby on Rails
+- Devise
+- Bootstrap
